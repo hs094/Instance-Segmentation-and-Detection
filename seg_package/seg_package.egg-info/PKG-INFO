@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: seg_package
+Version: 0.0.1
+Summary: Module to perform image segmentation and object detection.
+Author: Hardik Soni
+Author-email: iamhardiksoni@gmail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: pillow
+Requires-Dist: opencv-python
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

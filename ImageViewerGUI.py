@@ -1,8 +1,8 @@
 ####### REQUIRED IMPORTS FROM THE PREVIOUS ASSIGNMENT #######
-from my_package.data.dataset import Dataset
-from my_package.model import InstanceSegmentationModel
-from my_package.analysis.visualize import plot_visualization
-from my_package.data.transforms import *
+from seg_package.data.dataset import Dataset
+from seg_package.model import InstanceSegmentationModel
+from seg_package.analysis.visualize import plot_visualization
+from seg_package.data.transforms import *
 from PIL import Image, ImageTk
 
 ####### ADD THE ADDITIONAL IMPORTS FOR THIS ASSIGNMENT HERE #######

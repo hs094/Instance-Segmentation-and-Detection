@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_package-hs094',
+    name='seg_package',
     version='0.0.1',
     description='Module to perform image segmentation and object detection.',
     license='MIT',
